@@ -1,20 +1,24 @@
 {
-  "id": "social_devolved",
-  "name": "Social Devolved",
-  "categoryId": "support",
-  "description": "Secured regional solution",
-  "investment_24m": "891",
-  "hostedtype": "Azure",
-  "licensing_cost": "227",
-  "status_color": "#FF0000",
-  "type": "OffShelf",
-  "support_cost": "308",
-  "deployment_date": "26/2/14",
-  "end_of_maintenance": "22/10/17",
-  "department": "Marketing",
-  "status": "Decomissioned",
-  "end_of_life": "20/1/20",
-  "months_to_renew_support": "27",
-  "sme_email": "Corrianne.Hek@memento.net.au",
-  "investment_number": "356"
+  "applications": [
+    {
+      "id": "social_devolved",
+      "name": "Social Devolved",
+      "categoryId": "support",
+      "description": "Secured regional solution",
+      "investment_24m": "891",
+      "hostedtype": "Azure",
+      "licensing_cost": "227",
+      "status_color": "#FF0000",
+      "type": "OffShelf",
+      "support_cost": "308",
+      "deployment_date": "26/2/14",
+      "end_of_maintenance": "22/10/17",
+      "department": "Marketing",
+      "status": "Decomissioned",
+      "end_of_life": "20/1/20",
+      "months_to_renew_support": "27",
+      "sme_email": "Corrianne.Hek@memento.net.au",
+      "investment_number": "356"
+    }
+  ]
 }
